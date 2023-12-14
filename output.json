@@ -1,0 +1,212 @@
+[
+  {
+    "ProgrammingLanguages": "JavaScript",
+    "Hot": "65.36%",
+    "AveragePaying": "$65,580"
+  },
+  {
+    "ProgrammingLanguages": "HTML/CSS",
+    "Hot": "55.08%",
+    "AveragePaying": "$63,984"
+  },
+  {
+    "ProgrammingLanguages": "SQL",
+    "Hot": "49.43%",
+    "AveragePaying": "$69,108"
+  },
+  {
+    "ProgrammingLanguages": "Python",
+    "Hot": "48.07%",
+    "AveragePaying": "$71,105"
+  },
+  {
+    "ProgrammingLanguages": "TypeScript",
+    "Hot": "34.83%",
+    "AveragePaying": "$70,276"
+  },
+  {
+    "ProgrammingLanguages": "Java",
+    "Hot": "33.27%",
+    "AveragePaying": "$64,572"
+  },
+  {
+    "ProgrammingLanguages": "Bash/Shell",
+    "Hot": "29.07%",
+    "AveragePaying": "$81,666"
+  },
+  {
+    "ProgrammingLanguages": "C#",
+    "Hot": "27.98%",
+    "AveragePaying": "$69,516"
+  },
+  {
+    "ProgrammingLanguages": "C++",
+    "Hot": "22.55%",
+    "AveragePaying": "$68,000"
+  },
+  {
+    "ProgrammingLanguages": "PHP",
+    "Hot": "20.87%",
+    "AveragePaying": "$50,496"
+  },
+  {
+    "ProgrammingLanguages": "C",
+    "Hot": "19.27%",
+    "AveragePaying": "$67,186"
+  },
+  {
+    "ProgrammingLanguages": "PowerShell",
+    "Hot": "12.07%",
+    "AveragePaying": "$78,084"
+  },
+  {
+    "ProgrammingLanguages": "Go",
+    "Hot": "11.15%",
+    "AveragePaying": "$89,204"
+  },
+  {
+    "ProgrammingLanguages": "Rust",
+    "Hot": "9.32%",
+    "AveragePaying": "$87,047"
+  },
+  {
+    "ProgrammingLanguages": "Kotlin",
+    "Hot": "9.16%",
+    "AveragePaying": "$69,318"
+  },
+  {
+    "ProgrammingLanguages": "Dart",
+    "Hot": "6.54%",
+    "AveragePaying": "$43,724"
+  },
+  {
+    "ProgrammingLanguages": "Ruby",
+    "Hot": "6.05%",
+    "AveragePaying": "$93,000"
+  },
+  {
+    "ProgrammingLanguages": "Assembly",
+    "Hot": "5.47%",
+    "AveragePaying": "$75,000"
+  },
+  {
+    "ProgrammingLanguages": "Swift",
+    "Hot": "4.91%",
+    "AveragePaying": "$78,468"
+  },
+  {
+    "ProgrammingLanguages": "R",
+    "Hot": "4.66%",
+    "AveragePaying": "$67,734"
+  },
+  {
+    "ProgrammingLanguages": "VBA",
+    "Hot": "4.48%",
+    "AveragePaying": "$62,328"
+  },
+  {
+    "ProgrammingLanguages": "MATLAB",
+    "Hot": "4.1%",
+    "AveragePaying": "$57,588"
+  },
+  {
+    "ProgrammingLanguages": "Lua",
+    "Hot": "4.03%",
+    "AveragePaying": "$79,568"
+  },
+  {
+    "ProgrammingLanguages": "Groovy",
+    "Hot": "3.32%",
+    "AveragePaying": "$85,320"
+  },
+  {
+    "ProgrammingLanguages": "Delphi",
+    "Hot": "3.25%",
+    "AveragePaying": "$63,984"
+  },
+  {
+    "ProgrammingLanguages": "Scala",
+    "Hot": "2.59%",
+    "AveragePaying": "$92,780"
+  },
+  {
+    "ProgrammingLanguages": "Objective-C",
+    "Hot": "2.39%",
+    "AveragePaying": "$83,165"
+  },
+  {
+    "ProgrammingLanguages": "Perl",
+    "Hot": "2.31%",
+    "AveragePaying": "$90,073"
+  },
+  {
+    "ProgrammingLanguages": "Haskell",
+    "Hot": "2.22%",
+    "AveragePaying": "$80,250"
+  },
+  {
+    "ProgrammingLanguages": "Elixir",
+    "Hot": "2.15%",
+    "AveragePaying": "$92,959"
+  },
+  {
+    "ProgrammingLanguages": "Julia",
+    "Hot": "1.53%",
+    "AveragePaying": "$77,966"
+  },
+  {
+    "ProgrammingLanguages": "Clojure",
+    "Hot": "1.51%",
+    "AveragePaying": "$106,644"
+  },
+  {
+    "ProgrammingLanguages": "Solidity",
+    "Hot": "1.45%",
+    "AveragePaying": "$70,368"
+  },
+  {
+    "ProgrammingLanguages": "LISP",
+    "Hot": "1.31%",
+    "AveragePaying": "$95,000"
+  },
+  {
+    "ProgrammingLanguages": "F#",
+    "Hot": "1.03%",
+    "AveragePaying": "$95,526"
+  },
+  {
+    "ProgrammingLanguages": "Fortran",
+    "Hot": "0.91%",
+    "AveragePaying": "$80,000"
+  },
+  {
+    "ProgrammingLanguages": "Erlang",
+    "Hot": "0.9%",
+    "AveragePaying": "$103,000"
+  },
+  {
+    "ProgrammingLanguages": "APL",
+    "Hot": "0.71%",
+    "AveragePaying": "$75,932"
+  },
+  {
+    "ProgrammingLanguages": "COBOL",
+    "Hot": "0.65%",
+    "AveragePaying": "$75,592"
+  },
+  {
+    "ProgrammingLanguages": "SAS",
+    "Hot": "0.61%",
+    "AveragePaying": "$64,243"
+  },
+  {
+    "ProgrammingLanguages": "OCaml",
+    "Hot": "0.59%",
+    "AveragePaying": "$86,948"
+  },
+  {
+    "ProgrammingLanguages": "Crystal",
+    "Hot": "0.48%",
+    "AveragePaying": "$84,690"
+  }
+]
