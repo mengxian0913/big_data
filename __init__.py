@@ -46,7 +46,7 @@ for row in listOfPaying:
             key["AveragePaying"] = curPaying
 
 # Writing data to a JSON file
-with open('output.json', 'w') as json_file:
+with open('data.json', 'w') as json_file:
     json.dump(data, json_file, indent=2)
 
 driver.quit()
