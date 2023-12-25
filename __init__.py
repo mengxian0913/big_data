@@ -11,10 +11,10 @@ options.add_argument("headless")
 driver = webdriver.Chrome(options=options)
 
 
-url = 'https://survey.stackoverflow.co/2022'
+url = 'https://survey.stackoverflow.co/2023'
 driver.get(url)
 
-tableOfPopular = driver.find_element(By.XPATH, "//table[@id='languageqmfte']")
+tableOfPopular = driver.find_element(By.XPATH, "//table[@id='languageere2c']")
 
 
 listOfPopular = tableOfPopular.find_element(By.XPATH, ".//tbody")
@@ -31,7 +31,7 @@ for row in listOfPopular:
     })
 
 
-tableOfPaying = driver.find_element(By.XPATH, "//table[@id='programming-scripting-and-markup-languages6z4bv']")
+tableOfPaying = driver.find_element(By.XPATH, "//table[@id='programming-scripting-and-markup-languagesjpkph']")
 listOfPaying = tableOfPaying.find_element(By.XPATH, ".//tbody")
 listOfPaying = listOfPaying.find_elements(By.XPATH, ".//tr")
 
